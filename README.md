@@ -1,5 +1,4 @@
-Explicación de la función:
-calcular_promedio <- function(numeros): Define una nueva función llamada calcular_promedio que toma como argumento un vector de números (numeros).
+Explicación de la función:calcular_promedio <- function(numeros): Define una nueva función llamada calcular_promedio que toma como argumento un vector de números (numeros).
 
 if (!is.numeric(numeros)) { ... }: Verifica si los datos ingresados son numéricos. Si no lo son, se detiene la ejecución de la función y muestra un mensaje de error.
 promedio <- mean(numeros): Utiliza la función predefinida mean() de R para calcular el promedio de los números ingresados y almacena el resultado en la variable promedio.
