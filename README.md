@@ -17,6 +17,8 @@ resultado <- calcular_promedio(mis_numeros)
 print(resultado)
 breve explicación: 
 mis_numeros <- c(10, 20, 30, 40, 50): Crea un vector llamado mis_numeros que contiene los números para los cuales se desea calcular el promedio.
+
 resultado <- calcular_promedio(mis_numeros): Llama a la función calcular_promedio con el vector mis_numeros como argumento y almacena el resultado en la variable resultado.
+
 print(resultado): Imprime en la consola el valor del promedio calculado.
 
