@@ -1,4 +1,4 @@
-## calcular_promedio:
+## Función calcular_promedio
 Esta función tiene como objetivo calcular_promedio de un vector de números.
 
 **calcular_promedio <- function(numeros)**: Define una nueva función llamada calcular_promedio que toma como argumento un vector de números (numeros).
