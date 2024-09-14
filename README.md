@@ -22,3 +22,6 @@ print(resultado)
 resultado en la variable resultado.
 print(resultado):
 ``` Imprime en la consola el valor del promedio calculado.
+
+Patricia A. Loto. (2024). PatriLoto/mi_primer_paquete: primera publicacion (test). Zenodo. https://doi.org/10.5072/zenodo.109432
+
