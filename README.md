@@ -1,5 +1,5 @@
 ## Función calcular_promedio
-Función que permite calcular el promedio de un vector de números
+Función que permite calcular el promedio de un conjunto de números
 
 ### Explicación de la función.
 
